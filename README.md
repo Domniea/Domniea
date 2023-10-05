@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me:
+  
    ⚡ Email: domniea@gmail.com
    ⚡ Linkedin: https://www.linkedin.com/in/domniea/
    ⚡ Portfolio: https://domniea.surge.sh/
