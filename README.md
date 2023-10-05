@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 📫 How to reach me:
+- 📫 How to reach me: 
+   - ⚡ Email: domniea@gmail.com
+   - ⚡ Linkedin: https://www.linkedin.com/in/domniea/
+   - ⚡ Portfolio: https://domniea.surge.sh/
   
-   ⚡ Email: domniea@gmail.com
-   ⚡ Linkedin: https://www.linkedin.com/in/domniea/
-   ⚡ Portfolio: https://domniea.surge.sh/
 <!--
 **Domniea/Domniea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
